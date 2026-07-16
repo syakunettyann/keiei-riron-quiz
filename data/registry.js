@@ -4,6 +4,7 @@ const ALL_YEAR_DATA = [
   DATA_R07,
   DATA_R06,
   DATA_R05,
+  DATA_R05S,
   DATA_R04,
   DATA_R03,
   DATA_R02,
