@@ -238,6 +238,20 @@ body {
   flex-wrap: wrap;
 }
 
+.answer-actions,
+.bottom-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.answer-actions { margin-bottom: 10px; }
+
+.answer-actions button,
+.bottom-nav button {
+  width: 100%;
+}
+
 /* buttons */
 button.btn {
   border: none;

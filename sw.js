@@ -1,6 +1,6 @@
 // network-first: 問題データが更新され続けるため cache-first にしない。
 // 年度データを追加したら ASSETS にも追記し、CACHE_NAME を上げること。
-const CACHE_NAME = "keiei-quiz-v1";
+const CACHE_NAME = "keiei-quiz-v2";
 
 const ASSETS = [
   "./",
